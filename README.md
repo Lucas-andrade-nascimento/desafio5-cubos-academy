@@ -1,3 +1,10 @@
+[REPOSITÓRIO EM CONSTRUÇÃO]
+
+Para uma verificação rápida da api e do deploy use o link no navegador: 
+https://weak-plum-hummingbird-garb.cyclic.app/categoria
+
+Abaixo o readme disponibilizado pela cubos: 
+
 # desafio-backend-05-pdv
 ![](https://i.imgur.com/xG74tOh.png)
 
